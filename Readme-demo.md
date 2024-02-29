@@ -32,7 +32,7 @@ Unorder List:
 
 ## Images:
 
-![Alt Image Description](.jpeg)
+![Alt Image Description](blog1.jpeg)
 
 ## Code
 
