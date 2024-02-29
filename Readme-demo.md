@@ -28,7 +28,7 @@ Unorder List:
 
 ## Links:
 
-[My Instagram](https://www.instagram.com/karishma/)
+[My Instagram Account](https://www.instagram.com/karishma_patel_271/)
 
 ## Images:
 
